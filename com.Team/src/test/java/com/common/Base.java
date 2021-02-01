@@ -19,7 +19,7 @@ public class Base {
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		
 		return driver;
-		//1
+		//12
 		
 	}
 
